@@ -64,3 +64,13 @@ The presentation referenced several critical works supporting these advancements
 * **D’Angelo and Jirsa (TINS 2022)**: On multiscale direct and inverse problems.
 * Lorenzi et al. (2023/In Prep): On mean field models and platform development.
 * Casali et al. (2020): Regarding cerebellar plasticity and learning theory.
+
+---
+
+## 6. Disclaimer & Educational Use
+
+The images and visual data included in this repository are sourced from the EBRAINS Multiscale Simulation Webinar.
+
+* These materials are used strictly for reference and educational purposes.
+* There is no intention to redistribute, misrepresent, or infringe upon the original work or intellectual property of the presenters (Viktor Jirsa and Egidio D’Angelo) or the EBRAINS organization.
+* All credits for the original research and visual content belong to their respective owners and the EBRAINS community.
